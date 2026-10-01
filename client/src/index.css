@@ -140,11 +140,11 @@ body {
 }
 
 .brand-logo {
-  width: 82px;
-  height: 82px;
-  object-fit: cover;
-  border-radius: 18px;
-  box-shadow: 0 10px 35px rgba(26, 120, 180, 0.25);
+  width: 200px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 .brand-text h1 {
@@ -1339,4 +1339,11 @@ footer {
 .suggestion-item small {
   color: #aeb6ca;
   font-size: 11px;
+}
+
+@media (max-width: 600px) {
+  .brand-logo {
+    width: 260px;
+    height: auto;
+  }
 }

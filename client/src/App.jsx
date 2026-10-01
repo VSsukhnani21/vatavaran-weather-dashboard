@@ -308,7 +308,7 @@ setSuggestions(sortedResults);
     city: place.name,
     state: place.admin1 || data.location.state,
     country: place.country || data.location.country,
-  },
+  },              
 });
 
     await loadHistory();
@@ -383,15 +383,10 @@ setSuggestions(sortedResults);
 
           <div className="brand-area">
             <img
-              src="/vatavaran-logo.jpg"
+              src="/vatavaran-logo.png"
               alt="Vatavaran"
               className="brand-logo"
             />
-
-            <div className="brand-text">
-              <h1>Vatavaran</h1>
-              <p>Weather, Your Way</p>
-            </div>
           </div>
 
           <button
