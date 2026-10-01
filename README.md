@@ -149,7 +149,7 @@ Weather-dashbord/
 │
 ├── client/
 │   ├── public/
-│   │   └── vatavaran-logo.jpg
+│   │   └── vatavaran-logo.png
 │   │
 │   ├── src/
 │   │   ├── App.jsx
