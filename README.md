@@ -333,7 +333,7 @@ The presentation covers the project's:
 
 The presentation file will be added to this repository.
 
-**Presentation:** `Vatavaran-Project-Presentation.pptx`
+**Presentation:** [View Project Presentation (PDF)](./Vatavaran-Project-Presentation.pdf)
 
 ## 📄 Conclusion
 
